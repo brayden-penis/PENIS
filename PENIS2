@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Brayden Goodfellow</title>
+    <style>
+        body {
+            background-color: #f0f0ff;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #00008b;
+        }
+        p {
+            font-size: 18px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Brayden Goodfellow</h1>
+    <p>Professional Funny Guy</p>
+</body>
+</html>
